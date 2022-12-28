@@ -158,7 +158,7 @@ main{
  border:none;
 }
 
-.instagram.sidebar-contents{
+.instagram .sidebar-contents{
  display:flex;
  flex-wrap:wrap;
 }
